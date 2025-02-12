@@ -3,7 +3,7 @@
 **`Computer Science Student`** **`FullStack Developer`**
 - 💬 Ask me about table tennis 🏓, percussion 🥁, and food 🍱.
 - 📫 How to reach me: sd924@cornell.edu
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: he/him
 
 I am a chill CS student at Cornell University. I am passionate about learning and excited to explore new opportunities to collaborate on meaningful projects that push the boundaries of technology. I have hands-on experience in web and backend app development and am always eager to apply my programming skills to new and challenging projects!
 
