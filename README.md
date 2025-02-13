@@ -12,7 +12,7 @@ Currently, I am expanding my expertise in databases, full-stack development, and
 
 <div align="center">
   <img src="https://github.com/Shengle-Dai/Shengle-Dai/blob/main/assets/mantis-shengle.gif" width="300" height="300">
-  <p style="margin-left: 10px;">I'm the first gen mantis ken master ;)</p>
+  <p style="margin-left: 10px;">I'm the first gen praying mantis style kung fu master ;)</p>
 </div>
 
 
